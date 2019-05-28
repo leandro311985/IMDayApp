@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IM Day App</string>
+    <string name="title_activity_home"></string>
+    <string name="navigation_drawer_open">Abrir navigation drawer</string>
+    <string name="navigation_drawer_close">Fechar navigation drawer</string>
+    <string name="nav_header_title">IMs PP - Quem Resolve?</string>
+    <string name="nav_header_subtitle">Incidentes / Bug</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Sair</string>
+</resources>

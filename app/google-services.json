@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "758118228679",
+    "firebase_url": "https://imdayapp.firebaseio.com",
+    "project_id": "imdayapp",
+    "storage_bucket": "imdayapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758118228679:android:8e740fa117a0eaf8",
+        "android_client_info": {
+          "package_name": "com.br.uol.teste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758118228679-aduflfpl1lepakorhq2hmms7as3fr8c5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.br.uol.teste",
+            "certificate_hash": "14671aed0f7b88c91327a95fa0ae7d7035561ce2"
+          }
+        },
+        {
+          "client_id": "758118228679-8rvaj13tpctcnarq4lqlcvcm1e7lsrdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgX6NZJ1xD1M6A-9oJH1Q0c6OkTGqYUQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758118228679-8rvaj13tpctcnarq4lqlcvcm1e7lsrdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
